@@ -7,4 +7,5 @@ Documenting my daily progress learning Linux, Git, Github, networking, log analy
 - Day 4: cat, head, tail, less
 - Day 5: Redirection and pipes
 - Day 6: Text processing and log analysis
-New updates added daily
+- Day 7: Process management
+## New updates added daily
