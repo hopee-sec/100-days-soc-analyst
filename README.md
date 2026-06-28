@@ -9,4 +9,6 @@ Documenting my daily progress learning Linux, Git, Github, networking, log analy
 - Day 6: Text processing and log analysis
 - Day 7: Process management
 - Day 8: Finding Files in Linux
+- Day 9: SSH Authentication Log Investigation
+- Day 10: Incident Prioritization
 ## New updates added daily
